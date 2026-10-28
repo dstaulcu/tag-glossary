@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "tags": [
+    {
+      "tag": "projects/brain-agent",
+      "facet": "projects",
+      "status": "active",
+      "replaced_by": null,
+      "path": "projects/brain-agent.md",
+      "hash": "72bccdbc38316a1dae9a55efaf8f7daeb9af3018bca3a1d900cc20ed03034474"
+    },
+    {
+      "tag": "projects/hermes-setup",
+      "facet": "projects",
+      "status": "active",
+      "replaced_by": null,
+      "path": "projects/hermes-setup.md",
+      "hash": "0f070bd35c19d90802f9f2016a598c4e380e4960c6a3c74798192ac23c74198a"
+    },
+    {
+      "tag": "projects/obsidian-vault",
+      "facet": "projects",
+      "status": "active",
+      "replaced_by": null,
+      "path": "projects/obsidian-vault.md",
+      "hash": "a0d89a90c1b5affa63685838cfeb07801741c01d0c9298082dada2bc3cadd975"
+    },
+    {
+      "tag": "techniques/agent-scheduling",
+      "facet": "techniques",
+      "status": "active",
+      "replaced_by": null,
+      "path": "techniques/agent-scheduling.md",
+      "hash": "558de55b269e88899bc0f163eea0e15686ca3c20617e62d3871dd2d564728ab5"
+    },
+    {
+      "tag": "techniques/human-in-the-loop",
+      "facet": "techniques",
+      "status": "active",
+      "replaced_by": null,
+      "path": "techniques/human-in-the-loop.md",
+      "hash": "f845b7a886e99807740e3f576f78a0d4950226e201879ae3a54c2ff44e2f0d6c"
+    },
+    {
+      "tag": "tools/claude-code",
+      "facet": "tools",
+      "status": "active",
+      "replaced_by": null,
+      "path": "tools/claude-code.md",
+      "hash": "0dec96cf5a3772e1ab9a7b71e6dff17873a59bea2a129cbd8f358bde2a8afec6"
+    },
+    {
+      "tag": "tools/git",
+      "facet": "tools",
+      "status": "active",
+      "replaced_by": null,
+      "path": "tools/git.md",
+      "hash": "e73c1bcc1c154123ee3f1968e32e549ade2405c59eff04e776370c37f969b83e"
+    },
+    {
+      "tag": "tools/github",
+      "facet": "tools",
+      "status": "active",
+      "replaced_by": null,
+      "path": "tools/github.md",
+      "hash": "39aeafaa230a86adb1dfb9f7790e398e58f611585d0c3b0b6ca125167f76ace1"
+    },
+    {
+      "tag": "tools/gmail",
+      "facet": "tools",
+      "status": "active",
+      "replaced_by": null,
+      "path": "tools/gmail.md",
+      "hash": "83573d545177e94a27e9d7bf3d679ad66fa1380f0d9c5745a475652b91d200ad"
+    },
+    {
+      "tag": "tools/golang",
+      "facet": "tools",
+      "status": "active",
+      "replaced_by": null,
+      "path": "tools/golang.md",
+      "hash": "0169d527cbe07a5d77cb8900918a69e3eff42f600a50e57b3612acd45e4a6d20"
+    },
+    {
+      "tag": "tools/hermes-agent",
+      "facet": "tools",
+      "status": "active",
+      "replaced_by": null,
+      "path": "tools/hermes-agent.md",
+      "hash": "e5a3f058e3d26c249207dd95a6f8977477f177c0d9bf25cf20a0f5c1326fce41"
+    },
+    {
+      "tag": "tools/jira",
+      "facet": "tools",
+      "status": "active",
+      "replaced_by": null,
+      "path": "tools/jira.md",
+      "hash": "585790902e3fab5370603950e7fbfb2cc75040190ec418cc20a0429e5da7cdbf"
+    },
+    {
+      "tag": "tools/obsidian",
+      "facet": "tools",
+      "status": "active",
+      "replaced_by": null,
+      "path": "tools/obsidian.md",
+      "hash": "860705b8aaca994327e2ca486b63b17a85917219f4c8bb2a519c513c3363c7b5"
+    },
+    {
+      "tag": "tools/onenote",
+      "facet": "tools",
+      "status": "active",
+      "replaced_by": null,
+      "path": "tools/onenote.md",
+      "hash": "5eb2cf03f6a276cd24c1ebc1e2ff217d4aff9931d8a51bd1382dba047b3a48da"
+    },
+    {
+      "tag": "tools/splunk",
+      "facet": "tools",
+      "status": "active",
+      "replaced_by": null,
+      "path": "tools/splunk.md",
+      "hash": "1f707837e2f0c376afa2cce545a61a540181746b1220b3aefd51d1d02b55974f"
+    }
+  ]
+}

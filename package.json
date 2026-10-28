@@ -1,0 +1,9 @@
+{
+  "name": "tag-glossary",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "manifest": "node scripts/build-manifest.mjs",
+    "check": "node scripts/build-manifest.mjs --check"
+  }
+}
