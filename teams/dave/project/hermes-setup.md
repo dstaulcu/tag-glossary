@@ -1,13 +1,13 @@
 ---
-tag: projects/hermes-setup
-aliases: ["#projects/hermes-setup"]
-facet: projects
+tag: project/hermes-setup
+aliases: ["#project/hermes-setup"]
+facet: project
 status: active
 replaced_by:
 owner: dave
 ---
 
-# projects/hermes-setup
+# project/hermes-setup
 
 Definition: Installing and configuring Hermes Agent.
 

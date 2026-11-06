@@ -1,13 +1,13 @@
 ---
-tag: tools/obsidian
-aliases: ["#tools/obsidian"]
-facet: tools
+tag: tool/obsidian
+aliases: ["#tool/obsidian"]
+facet: tool
 status: active
 replaced_by:
 owner: dave
 ---
 
-# tools/obsidian
+# tool/obsidian
 
 Definition: Obsidian app and its plug-ins.
 

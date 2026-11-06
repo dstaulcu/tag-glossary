@@ -1,13 +1,13 @@
 ---
-tag: tools/claude-code
-aliases: ["#tools/claude-code"]
-facet: tools
+tag: tool/claude-code
+aliases: ["#tool/claude-code"]
+facet: tool
 status: active
 replaced_by:
 owner: dave
 ---
 
-# tools/claude-code
+# tool/claude-code
 
 Definition: Claude Code CLI.
 

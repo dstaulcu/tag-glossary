@@ -1,13 +1,13 @@
 ---
-tag: projects/brain-agent
-aliases: ["#projects/brain-agent"]
-facet: projects
+tag: project/brain-agent
+aliases: ["#project/brain-agent"]
+facet: project
 status: active
 replaced_by:
 owner: dave
 ---
 
-# projects/brain-agent
+# project/brain-agent
 
 Definition: Brain Agent and Scheduled Agents plug-in work.
 

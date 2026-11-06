@@ -1,0 +1,4 @@
+# Replace @dstaulcu with real groups (for example @org/core-group, @org/team-name).
+/core/ @dstaulcu
+/teams/dave/ @dstaulcu
+/scripts/ @dstaulcu

@@ -1,13 +1,13 @@
 ---
-tag: techniques/human-in-the-loop
-aliases: ["#techniques/human-in-the-loop"]
-facet: techniques
+tag: tactic/human-in-the-loop
+aliases: ["#tactic/human-in-the-loop"]
+facet: tactic
 status: active
 replaced_by:
 owner: dave
 ---
 
-# techniques/human-in-the-loop
+# tactic/human-in-the-loop
 
 Definition: Drafts or automation output that a person reviews before use.
 

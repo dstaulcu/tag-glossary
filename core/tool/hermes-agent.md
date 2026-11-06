@@ -1,13 +1,13 @@
 ---
-tag: tools/hermes-agent
-aliases: ["#tools/hermes-agent"]
-facet: tools
+tag: tool/hermes-agent
+aliases: ["#tool/hermes-agent"]
+facet: tool
 status: active
 replaced_by:
 owner: dave
 ---
 
-# tools/hermes-agent
+# tool/hermes-agent
 
 Definition: Hermes Agent (Nous Research).
 

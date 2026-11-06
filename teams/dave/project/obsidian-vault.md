@@ -1,13 +1,13 @@
 ---
-tag: projects/obsidian-vault
-aliases: ["#projects/obsidian-vault"]
-facet: projects
+tag: project/obsidian-vault
+aliases: ["#project/obsidian-vault"]
+facet: project
 status: active
 replaced_by:
 owner: dave
 ---
 
-# projects/obsidian-vault
+# project/obsidian-vault
 
 Definition: Building and tuning an Obsidian vault.
 
