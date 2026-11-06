@@ -1,125 +1,213 @@
 {
-  "version": 1,
+  "version": 2,
+  "facets": [
+    "project",
+    "community",
+    "tactic",
+    "tool"
+  ],
+  "teams": [
+    {
+      "id": "dave",
+      "name": "Dave",
+      "description": "Personal and seed team; holds Dave's project tags."
+    }
+  ],
   "tags": [
     {
-      "tag": "projects/brain-agent",
-      "facet": "projects",
+      "tag": "tactic/agent-scheduling",
+      "facet": "tactic",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "projects/brain-agent.md",
-      "hash": "72bccdbc38316a1dae9a55efaf8f7daeb9af3018bca3a1d900cc20ed03034474"
+      "aliases": [
+        "#tactic/agent-scheduling"
+      ],
+      "definition": "Scheduled or agentic automation jobs and agent workflows.",
+      "path": "core/tactic/agent-scheduling.md",
+      "hash": "67a5afa913d568a7ffca51f8ec83e851bbce192a8014b337f9c3ed82e8a734a4"
     },
     {
-      "tag": "projects/hermes-setup",
-      "facet": "projects",
+      "tag": "tactic/human-in-the-loop",
+      "facet": "tactic",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "projects/hermes-setup.md",
-      "hash": "0f070bd35c19d90802f9f2016a598c4e380e4960c6a3c74798192ac23c74198a"
+      "aliases": [
+        "#tactic/human-in-the-loop"
+      ],
+      "definition": "Drafts or automation output that a person reviews before use.",
+      "path": "core/tactic/human-in-the-loop.md",
+      "hash": "fd386bcebf8581145bb51c84b4a2d8b91d54ff275176fadca7e8e7a49b152c28"
     },
     {
-      "tag": "projects/obsidian-vault",
-      "facet": "projects",
+      "tag": "tool/claude-code",
+      "facet": "tool",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "projects/obsidian-vault.md",
-      "hash": "a0d89a90c1b5affa63685838cfeb07801741c01d0c9298082dada2bc3cadd975"
+      "aliases": [
+        "#tool/claude-code"
+      ],
+      "definition": "Claude Code CLI.",
+      "path": "core/tool/claude-code.md",
+      "hash": "97749d0fcf7cc84114a25b31a867d45cc47332e842bf275edda0d33cd87bd528"
     },
     {
-      "tag": "techniques/agent-scheduling",
-      "facet": "techniques",
+      "tag": "tool/git",
+      "facet": "tool",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "techniques/agent-scheduling.md",
-      "hash": "558de55b269e88899bc0f163eea0e15686ca3c20617e62d3871dd2d564728ab5"
+      "aliases": [
+        "#tool/git"
+      ],
+      "definition": "Git source control.",
+      "path": "core/tool/git.md",
+      "hash": "f2a4f0da94a600edfda54895a015a1111ba886c58321e81d41c1e67adf4e89a9"
     },
     {
-      "tag": "techniques/human-in-the-loop",
-      "facet": "techniques",
+      "tag": "tool/github",
+      "facet": "tool",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "techniques/human-in-the-loop.md",
-      "hash": "f845b7a886e99807740e3f576f78a0d4950226e201879ae3a54c2ff44e2f0d6c"
+      "aliases": [
+        "#tool/github"
+      ],
+      "definition": "GitHub hosting, repos, issues and releases.",
+      "path": "core/tool/github.md",
+      "hash": "9fc95714c4d31ecdb094e3870b52a23c6a667244fc29e79c8e51d339a91b3cc4"
     },
     {
-      "tag": "tools/claude-code",
-      "facet": "tools",
+      "tag": "tool/gmail",
+      "facet": "tool",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "tools/claude-code.md",
-      "hash": "0dec96cf5a3772e1ab9a7b71e6dff17873a59bea2a129cbd8f358bde2a8afec6"
+      "aliases": [
+        "#tool/gmail"
+      ],
+      "definition": "Gmail and Google group email.",
+      "path": "core/tool/gmail.md",
+      "hash": "cebb6e0f3296c1d60c714c1346254f68a4d546a2e4b56d7096144c0fbfa097fe"
     },
     {
-      "tag": "tools/git",
-      "facet": "tools",
+      "tag": "tool/golang",
+      "facet": "tool",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "tools/git.md",
-      "hash": "e73c1bcc1c154123ee3f1968e32e549ade2405c59eff04e776370c37f969b83e"
+      "aliases": [
+        "#tool/golang"
+      ],
+      "definition": "Go language and its tooling.",
+      "path": "core/tool/golang.md",
+      "hash": "1ec5dec13b406863735e781ca17930ca0e95dae6b61b1aa2e218ad1f408b0639"
     },
     {
-      "tag": "tools/github",
-      "facet": "tools",
+      "tag": "tool/hermes-agent",
+      "facet": "tool",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "tools/github.md",
-      "hash": "39aeafaa230a86adb1dfb9f7790e398e58f611585d0c3b0b6ca125167f76ace1"
+      "aliases": [
+        "#tool/hermes-agent"
+      ],
+      "definition": "Hermes Agent (Nous Research).",
+      "path": "core/tool/hermes-agent.md",
+      "hash": "4a29725daa183d17675c3a0f23da7db561809bc867f23d2e96523f5ae5a596cf"
     },
     {
-      "tag": "tools/gmail",
-      "facet": "tools",
+      "tag": "tool/jira",
+      "facet": "tool",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "tools/gmail.md",
-      "hash": "83573d545177e94a27e9d7bf3d679ad66fa1380f0d9c5745a475652b91d200ad"
+      "aliases": [
+        "#tool/jira"
+      ],
+      "definition": "Jira for tracking work items.",
+      "path": "core/tool/jira.md",
+      "hash": "6c8d9dcb0f3afe622074e92b93c6fd890e6928e94307b03fc3cf94e5fa0999ff"
     },
     {
-      "tag": "tools/golang",
-      "facet": "tools",
+      "tag": "tool/obsidian",
+      "facet": "tool",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "tools/golang.md",
-      "hash": "0169d527cbe07a5d77cb8900918a69e3eff42f600a50e57b3612acd45e4a6d20"
+      "aliases": [
+        "#tool/obsidian"
+      ],
+      "definition": "Obsidian app and its plug-ins.",
+      "path": "core/tool/obsidian.md",
+      "hash": "3b79aacf4938ca6e6f986c84a59812636319f65a74ca54c1053cc1e0b2979ab0"
     },
     {
-      "tag": "tools/hermes-agent",
-      "facet": "tools",
+      "tag": "tool/onenote",
+      "facet": "tool",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "tools/hermes-agent.md",
-      "hash": "e5a3f058e3d26c249207dd95a6f8977477f177c0d9bf25cf20a0f5c1326fce41"
+      "aliases": [
+        "#tool/onenote"
+      ],
+      "definition": "Microsoft OneNote.",
+      "path": "core/tool/onenote.md",
+      "hash": "65ad3ee9173de113a323c7b60daf6296515dff892dfcada23d089b20bcf66c40"
     },
     {
-      "tag": "tools/jira",
-      "facet": "tools",
+      "tag": "tool/splunk",
+      "facet": "tool",
+      "source": "core",
       "status": "active",
       "replaced_by": null,
-      "path": "tools/jira.md",
-      "hash": "585790902e3fab5370603950e7fbfb2cc75040190ec418cc20a0429e5da7cdbf"
+      "aliases": [
+        "#tool/splunk"
+      ],
+      "definition": "Splunk logging and analytics.",
+      "path": "core/tool/splunk.md",
+      "hash": "f0153f9b7eca60419e7fab4d00bcc72c663a2b5296cf15afdc338f22d4c458b7"
     },
     {
-      "tag": "tools/obsidian",
-      "facet": "tools",
+      "tag": "project/brain-agent",
+      "facet": "project",
+      "source": "dave",
       "status": "active",
       "replaced_by": null,
-      "path": "tools/obsidian.md",
-      "hash": "860705b8aaca994327e2ca486b63b17a85917219f4c8bb2a519c513c3363c7b5"
+      "aliases": [
+        "#project/brain-agent"
+      ],
+      "definition": "Brain Agent and Scheduled Agents plug-in work.",
+      "path": "teams/dave/project/brain-agent.md",
+      "hash": "692ee401164882662536c67cb191b9c377a7fb0ee2a2909e61ac9826d744e1a0"
     },
     {
-      "tag": "tools/onenote",
-      "facet": "tools",
+      "tag": "project/hermes-setup",
+      "facet": "project",
+      "source": "dave",
       "status": "active",
       "replaced_by": null,
-      "path": "tools/onenote.md",
-      "hash": "5eb2cf03f6a276cd24c1ebc1e2ff217d4aff9931d8a51bd1382dba047b3a48da"
+      "aliases": [
+        "#project/hermes-setup"
+      ],
+      "definition": "Installing and configuring Hermes Agent.",
+      "path": "teams/dave/project/hermes-setup.md",
+      "hash": "4997a5c4145705e783e2b74bc4343c1cdc00aae13e151ac52e4a2c4efc8f9a71"
     },
     {
-      "tag": "tools/splunk",
-      "facet": "tools",
+      "tag": "project/obsidian-vault",
+      "facet": "project",
+      "source": "dave",
       "status": "active",
       "replaced_by": null,
-      "path": "tools/splunk.md",
-      "hash": "1f707837e2f0c376afa2cce545a61a540181746b1220b3aefd51d1d02b55974f"
+      "aliases": [
+        "#project/obsidian-vault"
+      ],
+      "definition": "Building and tuning an Obsidian vault.",
+      "path": "teams/dave/project/obsidian-vault.md",
+      "hash": "f61a8f13d58e8f0dc4060108c6ed01783f844af59ce155e792801581db2ebdf3"
     }
   ]
 }

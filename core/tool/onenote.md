@@ -1,13 +1,13 @@
 ---
-tag: tools/onenote
-aliases: ["#tools/onenote"]
-facet: tools
+tag: tool/onenote
+aliases: ["#tool/onenote"]
+facet: tool
 status: active
 replaced_by:
 owner: dave
 ---
 
-# tools/onenote
+# tool/onenote
 
 Definition: Microsoft OneNote.
 

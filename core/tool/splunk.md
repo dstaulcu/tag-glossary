@@ -1,13 +1,13 @@
 ---
-tag: tools/splunk
-aliases: ["#tools/splunk"]
-facet: tools
+tag: tool/splunk
+aliases: ["#tool/splunk"]
+facet: tool
 status: active
 replaced_by:
 owner: dave
 ---
 
-# tools/splunk
+# tool/splunk
 
 Definition: Splunk logging and analytics.
 

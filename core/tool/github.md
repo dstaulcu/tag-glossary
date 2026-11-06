@@ -1,13 +1,13 @@
 ---
-tag: tools/github
-aliases: ["#tools/github"]
-facet: tools
+tag: tool/github
+aliases: ["#tool/github"]
+facet: tool
 status: active
 replaced_by:
 owner: dave
 ---
 
-# tools/github
+# tool/github
 
 Definition: GitHub hosting, repos, issues and releases.
 

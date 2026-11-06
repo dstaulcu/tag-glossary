@@ -1,13 +1,13 @@
 ---
-tag: tools/git
-aliases: ["#tools/git"]
-facet: tools
+tag: tool/git
+aliases: ["#tool/git"]
+facet: tool
 status: active
 replaced_by:
 owner: dave
 ---
 
-# tools/git
+# tool/git
 
 Definition: Git source control.
 

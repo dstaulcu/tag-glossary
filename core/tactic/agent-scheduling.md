@@ -1,13 +1,13 @@
 ---
-tag: techniques/agent-scheduling
-aliases: ["#techniques/agent-scheduling"]
-facet: techniques
+tag: tactic/agent-scheduling
+aliases: ["#tactic/agent-scheduling"]
+facet: tactic
 status: active
 replaced_by:
 owner: dave
 ---
 
-# techniques/agent-scheduling
+# tactic/agent-scheduling
 
 Definition: Scheduled or agentic automation jobs and agent workflows.
 

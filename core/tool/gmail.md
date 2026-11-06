@@ -1,13 +1,13 @@
 ---
-tag: tools/gmail
-aliases: ["#tools/gmail"]
-facet: tools
+tag: tool/gmail
+aliases: ["#tool/gmail"]
+facet: tool
 status: active
 replaced_by:
 owner: dave
 ---
 
-# tools/gmail
+# tool/gmail
 
 Definition: Gmail and Google group email.
 

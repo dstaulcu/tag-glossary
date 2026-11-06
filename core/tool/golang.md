@@ -1,13 +1,13 @@
 ---
-tag: tools/golang
-aliases: ["#tools/golang"]
-facet: tools
+tag: tool/golang
+aliases: ["#tool/golang"]
+facet: tool
 status: active
 replaced_by:
 owner: dave
 ---
 
-# tools/golang
+# tool/golang
 
 Definition: Go language and its tooling.
 
